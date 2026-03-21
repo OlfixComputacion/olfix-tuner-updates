@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "versionCode": 14,
-  "notes": "Modo manual de afinación, ajustes completos, botón para pausar micrófono"
+  "version": "2.3",
+  "versionCode": 16,
+  "notes": "Gráfico mejorado, botón PayPal en ajustes, correcciones en modo guitarra y voz."
 }
