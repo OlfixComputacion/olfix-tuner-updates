@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "versionCode": 18,
-  "notes": "Botones Guitarra/Voz rediseñados, textos más grandes, gráfico mejorado, efecto visual en el botón de ajustes."
+  "version": "2.5",
+  "versionCode": 19,
+  "notes": "Noise gate automático y manual. Nuevo diseño del header con logo. Fix en el sistema de tildado de cuerdas afinadas."
 }
