@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
-  "versionCode": 20,
-  "notes": "Noise gate automático y manual. Nuevo diseño del header con logo. Fix en el sistema de tildado de cuerdas afinadas."
+  "version": "2.6",
+  "versionCode": 22,
+  "notes": "Rediseño de interfaz y reajuste de las formulas de afinacion, mejora del sistema de actualizacion."
 }
