@@ -1,5 +1,5 @@
 {
   "version": "2.6",
-  "versionCode": 22,
-  "notes": "Rediseño de interfaz y reajuste de las formulas de afinacion, mejora del sistema de actualizacion."
+  "versionCode": 23,
+  "notes": "Corrección de bugs gráficos y prueba de calibración en la afinación."
 }
