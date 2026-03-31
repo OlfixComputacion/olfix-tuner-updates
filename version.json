@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
-  "versionCode": 23,
-  "notes": "Corrección de bugs gráficos y prueba de calibración en la afinación."
+  "version": "2.7",
+  "versionCode": 24,
+  "notes": "Sigo con las pruebas graficas y calibrando la animación con el análisis de la señal."
 }
