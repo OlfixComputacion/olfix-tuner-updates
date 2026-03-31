@@ -1,5 +1,5 @@
 {
-  "version": "2.7",
-  "versionCode": 24,
-  "notes": "Sigo con las pruebas graficas y calibrando la animación con el análisis de la señal."
+  "version": "2.8",
+  "versionCode": 25,
+  "notes": "Ajustes menores en sensibilidad del osciloscopio y calibración del indicador de afinación. Sistema de actualizaciones mejorado"
 }
