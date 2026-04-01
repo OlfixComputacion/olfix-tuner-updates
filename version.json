@@ -1,5 +1,5 @@
 {
-  "version": "2.8",
-  "versionCode": 28,
-  "notes": "Misma versión pero sigo los ajustes en sensibilidad del osciloscopio y calibración del indicador de afinación."
+  "version": "2.9",
+  "versionCode": 29,
+  "notes": "Implementado el modo landscape (horizontal), agregada nueva opcion en ajustes y corregidos 2 bugs en fórmula de afinación 440."
 }
