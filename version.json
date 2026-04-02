@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
-  "versionCode": 29,
-  "notes": "Implementado el modo landscape (horizontal), agregada nueva opcion en ajustes y corregidos 2 bugs en fórmula de afinación 440."
+  "version": "3.0.0",
+  "versionCode": 30,
+  "notes": "Mejoras en la afinación y nuevo sistema de filtrado de frecuencias por cuerda."
 }
