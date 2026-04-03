@@ -1,5 +1,6 @@
 {
-  "version": "3.0.0",
-  "versionCode": 30,
-  "notes": "Mejoras en la afinación y nuevo sistema de filtrado de frecuencias por cuerda."
+  "version": "3.1.0",
+  "versionCode": 31,
+  "notes": "• Detección más rápida (buffer 2048 + solapamiento + prob≥0.90)\n• LED suavizado alineado con el osciloscopio\n• Diapasón aplicado en filtros y resaltado de cuerdas\n• Vibración compatible con API 21+"
 }
+
