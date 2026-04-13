@@ -1,6 +1,5 @@
 {
-  "version": "3.1.0",
-  "versionCode": 31,
-  "notes": "• Detección más rápida (buffer 2048 + solapamiento + prob≥0.90)\n• LED suavizado alineado con el osciloscopio\n• Diapasón aplicado en filtros y resaltado de cuerdas\n• Vibración compatible con API 21+"
+  "version": "3.2.0",
+  "versionCode": 32,
+  "notes": "• Corrección de octava en modo voz: ya no salta una octava al detectar armónicos\n• Keystore de firma actualizado a ruta correcta"
 }
-
