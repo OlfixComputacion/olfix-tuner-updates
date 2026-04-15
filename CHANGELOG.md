@@ -1,5 +1,17 @@
 # Olfix Tuner — Changelog
 
+## [3.4.0] - 2026-04-15
+### Novedades
+- Metrónomo: nueva pestaña ♩ METRO junto a Guitarra y Voz
+- Display BPM estilo 7 segmentos con el mismo diseño retro del afinador
+- Tap tempo: golpeás el ritmo y la app calcula el BPM automáticamente
+- Botones +/- con click sostenido para ajuste rápido de tempo
+- Compás configurable: 2/4, 3/4, 4/4, 5/4, 6/8, 7/8
+- Subdivisiones: negras, corcheas, tresillos y semicorcheas
+- Indicadores LED sincronizados con el pulso
+- Modo práctica: sube el tempo automáticamente cada N compases hasta el BPM objetivo
+- El nombre del tempo (Andante, Allegro, etc.) se muestra en tiempo real
+
 ## [3.2.0] - 2026-04-13
 ### Mejoras
 - Corrección de octava en modo voz: el detector ya no salta una octava cuando YIN se engancha en un sub-armónico o primer armónico de la voz. La frecuencia detectada se valida contra la lectura estable anterior en una ventana de 200 ms; si el ratio es ≈0.5 o ≈2.0 se corrige automáticamente. El modo guitarra no se ve afectado.
