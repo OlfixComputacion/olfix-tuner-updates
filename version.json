@@ -1,5 +1,5 @@
 {
-  "versionCode": 33,
-  "version": "3.3.0",
-  "notes": "v3.3.0 — Corrección: las cuerdas ahora se marcan como afinadas de forma más rápida y confiable. El temporizador ya no se reinicia por micro-fluctuaciones normales de la cuerda."
+  "versionCode": 34,
+  "version": "3.4.0",
+  "notes": "v3.4.0 — Metrónomo completo: nueva pestaña con display BPM estilo 7 segmentos, tap tempo, compás, subdivisiones y modo práctica con aceleración gradual."
 }
