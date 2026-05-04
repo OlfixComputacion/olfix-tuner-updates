@@ -1,5 +1,5 @@
 {
-  "versionCode": 35,
-  "version": "3.5.0",
-  "notes": "v3.5.0 — Correcciones: umbral de vibración ajustado a ±5 cents, posible memory leak en el banner de afinación, migración a APIs modernas de Android."
+  "versionCode": 36,
+  "version": "3.6.0",
+  "notes": "v3.6.0 — Corrección crítica: la app ya no se cierra al rotar el dispositivo. También mejora el manejo de actualizaciones cuando la instalación falla (ya no re-descarga innecesariamente)."
 }
