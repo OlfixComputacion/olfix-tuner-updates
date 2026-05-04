@@ -1,5 +1,5 @@
 {
-  "versionCode": 36,
-  "version": "3.6.0",
-  "notes": "v3.6.0 — Corrección crítica: la app ya no se cierra al rotar el dispositivo. También mejora el manejo de actualizaciones cuando la instalación falla (ya no re-descarga innecesariamente)."
+  "versionCode": 37,
+  "version": "3.6.1",
+  "notes": "v3.6.1 — Corrección crítica: la app ya no se cierra al rotar el dispositivo. También mejora el manejo de actualizaciones cuando la instalación falla (ya no re-descarga innecesariamente)."
 }
