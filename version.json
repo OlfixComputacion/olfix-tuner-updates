@@ -1,5 +1,5 @@
 {
-  "versionCode": 34,
-  "version": "3.4.0",
-  "notes": "v3.4.0 — Metrónomo completo: nueva pestaña con display BPM estilo 7 segmentos, tap tempo, compás, subdivisiones y modo práctica con aceleración gradual."
+  "versionCode": 35,
+  "version": "3.5.0",
+  "notes": "v3.5.0 — Correcciones: umbral de vibración ajustado a ±5 cents, posible memory leak en el banner de afinación, migración a APIs modernas de Android."
 }
