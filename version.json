@@ -1,5 +1,5 @@
 {
-  "versionCode": 40,
-  "version": "3.6.4",
-  "notes": "v3.6.4 — La 6ta cuerda ya no se detecta como Si en teléfonos con micrófono débil en graves. Corrección automática de armónicos 2° y 3°. Mayor sensibilidad de micrófono (+6 dB). Frecuencias de referencia 12-TET exactas."
+  "versionCode": 41,
+  "version": "3.6.5",
+  "notes": "v3.6.5 — Modo manual completamente rediseñado: el medidor y las flechas responden de inmediato, cents calculados vs. la cuerda bloqueada, flechas SUBIR/BAJAR más grandes con etiquetas, nota objetivo visible sin señal."
 }
