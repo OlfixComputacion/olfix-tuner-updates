@@ -1,5 +1,5 @@
 {
-  "versionCode": 38,
-  "version": "3.6.2",
-  "notes": "v3.6.2 — Mejora del sistema de actualizaciones: detección de descarga más confiable en todos los dispositivos, y limpieza automática del APK descargado una vez instalado."
+  "versionCode": 39,
+  "version": "3.6.3",
+  "notes": "v3.6.3 — Correcciones: modo manual ahora marca ✓ las cuerdas afinadas, detección mejorada en dispositivos que requerían tocar muy fuerte, indicadores de subir/bajar cuerda más estables."
 }
