@@ -1,5 +1,5 @@
 {
-  "versionCode": 39,
-  "version": "3.6.3",
-  "notes": "v3.6.3 — Correcciones: modo manual ahora marca ✓ las cuerdas afinadas, detección mejorada en dispositivos que requerían tocar muy fuerte, indicadores de subir/bajar cuerda más estables."
+  "versionCode": 40,
+  "version": "3.6.4",
+  "notes": "v3.6.4 — La 6ta cuerda ya no se detecta como Si en teléfonos con micrófono débil en graves. Corrección automática de armónicos 2° y 3°. Mayor sensibilidad de micrófono (+6 dB). Frecuencias de referencia 12-TET exactas."
 }
